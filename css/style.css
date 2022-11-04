@@ -1,0 +1,46 @@
+ #wiki{
+    width: 170px;
+    height:150px;
+ }
+
+ a{
+    text-decoration:none;
+ }
+
+ a:hover{
+    text-decoration:underline;
+ }
+ 
+li{
+    padding:2px;
+}
+
+  #nav{
+    float:left;
+    clear:left;
+    width:10%;
+    padding:10px;
+  }
+
+#topic{
+    width:85%;
+    float:left;
+    padding:20px;
+    border:2px solid gray;
+}
+
+ #sidebar img{
+    width:100%;
+    height:160px;
+ }
+
+ #sidebar{
+    float:right;
+    width:18%;
+    border:1px solid gray;
+    height:600px;
+    text-align:center;
+    padding:10px;
+
+
+ }
